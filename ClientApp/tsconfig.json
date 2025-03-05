@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "types": ["styled-components"],
     "target": "es6",
     "lib": [
       "dom",
