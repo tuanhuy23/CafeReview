@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="ClientApp\src\Pages\Layout\Header\" />
+    <Folder Include="wwwroot\publish\" />
+  </ItemGroup>
+
 </Project>
